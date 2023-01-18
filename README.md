@@ -50,9 +50,9 @@ Once installed, the voting system can be used by creating polls in the admin pan
     Some example data is provided in the database.sql file, feel free to modify it as per your needs.
 ## screenshots
 
-1.
-![App Screenshot](voting/screenshots/vote.PNG)
+1
+![App Screenshot](vote.PNG)
 
 
 2
-![App Screenshot](voting/screenshots/vote1.PNG)
+![App Screenshot](vote1.PNG)
